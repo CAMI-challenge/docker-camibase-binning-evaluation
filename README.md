@@ -1,2 +1,2 @@
-# docker-camibase-binning
-A container image to use for metagenomic binning programs.
+# docker-camibase-binning-evaluation
+A container image to use for metagenomic binning evaluation programs.
